@@ -1,4 +1,4 @@
-<h1><img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30"/> Hi there, I'm Freiik</h1>
+<h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm Freiik</h1>
 
 <img align="right" alt="Freiik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freiikdev&show_icons=true&hide_border=true" />
 
@@ -23,8 +23,7 @@
 ---
 
 ## 🚩 Projects:
-- [VoltBot <img src="https://voltbot.xyz/img/logo.png" width="24"/>](https://voltbot.xyz)
-- [FortniteFrance <img src="https://www.fortnite-france.fr/wp-content/themes/fortniteFrance/assets/images/esports/logo.png" width="24"/>](https://www.fortnite-france.fr/)
+- [Discord-Addons <img src="https://discord-addons.js.org/img/favicon.png" width="24"/>](https://discord-addons.js.org/)
 
 ---
 
